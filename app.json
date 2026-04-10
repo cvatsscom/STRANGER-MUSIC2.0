@@ -1,7 +1,7 @@
 {
     "name": "˹ 𝗦ᴀᴘɴᴀ ✘ 𝗠ᴜsɪᴄ ˼",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/e9fd8434181b433e25f64.jpg",
+    "logo": "https://files.catbox.moe/7scejy.png",
     "keywords": [
     "python3",
     "telegram",
@@ -55,7 +55,7 @@
       },
       "LOGGER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐖𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐋𝐖𝐀𝐘𝐒 𝐒𝐓𝐀𝐘 𝐀𝐃𝐌𝐈𝐍 (𝐈𝐃 𝐌𝐔𝐒𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 -100).",
-        "value": "-1002018556839",
+        "value": "-1003710487004",
         "required": true
       }
     },
